@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./app.css";
+import "./App.css";
 import ReactMarkDown from "react-markdown";
 
 // defaultMarkdown contains valid markdown that represents at least one of each of the following elements: a header (H1 size), a sub header (H2 size), a link, inline code, a code block, a list item, a blockquote, an image, and bolded text
